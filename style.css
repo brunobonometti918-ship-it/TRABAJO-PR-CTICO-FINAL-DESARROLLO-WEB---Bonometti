@@ -17,6 +17,8 @@ h3 {
 footer {
     border-top: 2px solid;
     color: rgb(43, 75, 218);
+    padding: 5px;
+    font-size: 12px;
 }
 
 nav a {
@@ -45,4 +47,5 @@ img {
     width: 270px;
     height: auto;
     border-radius: 10px;
+    margin-bottom: 15px;
 }
