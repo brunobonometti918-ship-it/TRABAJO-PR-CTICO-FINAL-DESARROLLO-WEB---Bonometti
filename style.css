@@ -25,11 +25,11 @@ nav a {
     padding: 5px;
     border-radius: 8px;
 }
-.boton1 {
+.boton1,.boton2,.boton3,.boton4 {
     background-color: blue;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 12px 32px;
     border-radius: 14px;
     font-family: sans-serif;
     text-decoration: none;
@@ -38,4 +38,11 @@ nav a {
 img {
     width: 250px;
     height: auto;
+    border-radius: 10px;
+}
+
+.imagenPS {
+    width: 270px;
+    height: auto;
+    border-radius: 10px;
 }
