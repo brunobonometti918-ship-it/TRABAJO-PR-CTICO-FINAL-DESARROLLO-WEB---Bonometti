@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: arial;
+}
+
+h1 {
+    color: blue;
+}
+
+footer {
+    border-top: 2px;
+    color: aqua;
+}
+
+nav a {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+}
