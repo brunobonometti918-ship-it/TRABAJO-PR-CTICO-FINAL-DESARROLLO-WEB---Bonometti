@@ -8,6 +8,12 @@ h1 {
     color: blue;
 }
 
+h3 {
+    color: blue;
+}
+
+
+
 footer {
     border-top: 2px solid;
     color: aqua;
@@ -18,4 +24,18 @@ nav a {
     color: white;
     padding: 5px;
     border-radius: 8px;
+}
+.boton1 {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 14px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+img {
+    width: 250px;
+    height: auto;
 }
