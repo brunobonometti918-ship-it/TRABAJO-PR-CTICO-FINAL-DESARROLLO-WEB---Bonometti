@@ -1,15 +1,18 @@
 body {
     background-color: rgb(6, 3, 45);
     color: white;
-    font-family: arial;
+    font-family: "Share Tech", sans-serif;
+    font-style: normal;
 }
 
 h1 {
     color: rgb(43, 75, 218);
+    font-family: "Share Tech", sans-serif;
 }
 
 h3 {
     color: rgb(43, 75, 218);
+    font-family: "Share Tech", sans-serif;
 }
 
 
@@ -33,7 +36,9 @@ nav a {
     color: rgb(91, 203, 255);
     padding: 12px 32px;
     border-radius: 14px;
-    font-family: sans-serif;
+    font-family: "Share Tech", sans-serif;
+    font-weight: 200;
+    font-style: normal;    
     text-decoration: none;
 }
 
@@ -48,4 +53,10 @@ img {
     height: auto;
     border-radius: 10px;
     margin-bottom: 15px;
+}
+
+.share-tech-regular {
+  font-family: "Share Tech", sans-serif;
+  font-weight: 200;
+  font-style: normal;
 }
